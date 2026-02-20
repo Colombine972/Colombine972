@@ -1,13 +1,13 @@
-## Hi there 👋 I'm Cindy
+## Hi 👋 I'm Cindy
 
-A passionate web development student
-🌱 
-
+🌱 A passionate web development student
+ 
 📫 How to reach cindy.colombine@gmail.com
 
 📄 Know about my experiences cindycolombine.vercel.app/
 
-/in/cindy-colombine-devweb/
+Connect with me : 
+<a>/in/cindy-colombine-devweb/</a>
 
 Languages and Tools:
 css3 express figma html5 javascript mysql nodejs react typescript
